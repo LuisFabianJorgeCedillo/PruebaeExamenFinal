@@ -7,5 +7,6 @@ using namespace std;
 int main()
 {
 	cout << "HOLA MUNDO" << endl;
+	cout << "HOLA MUNDO" << endl;
 
 }
