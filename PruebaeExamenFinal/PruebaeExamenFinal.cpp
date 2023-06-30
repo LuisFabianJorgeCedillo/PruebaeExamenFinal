@@ -6,8 +6,6 @@
 using namespace std;
 int main()
 {
-    RockolaManager rockola;
-    rockola.run();
-    return 0;
-//CAMBIOS --- 
+	cout << "HOLA MUNDO" << endl;
+
 }
