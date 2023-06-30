@@ -9,6 +9,6 @@ int main()
 	cout << "HOLA MUNDO" << endl;
 	cout << "HOLA MUNDO" << endl;
 	cout << "HOLA " << endl;
-
+	cout << "HOLAS" << endl;
 
 }
